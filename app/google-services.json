@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "923159865584",
+    "firebase_url": "https://chatusingfirebase-49b0f.firebaseio.com",
+    "project_id": "chatusingfirebase-49b0f",
+    "storage_bucket": "chatusingfirebase-49b0f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:923159865584:android:c7b8e3b753b361e0",
+        "android_client_info": {
+          "package_name": "cyclonewebz.com.chatusingfirebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "923159865584-suqtf0ch6pvurm0qsasasvdjg1fqqvoc.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "cyclonewebz.com.chatusingfirebase",
+            "certificate_hash": "7676247ec2f3967b0bfb659cf5538d48763a1e5d"
+          }
+        },
+        {
+          "client_id": "923159865584-hgj40f5fic695bk720dfufe4pmoj29t5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD_i4gBqn7NVQJQPfkDSo-xquxbEkdiIcc"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "923159865584-hgj40f5fic695bk720dfufe4pmoj29t5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
